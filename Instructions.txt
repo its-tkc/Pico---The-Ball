@@ -1,0 +1,1 @@
+This is reminder you have to develop powerup management system.
