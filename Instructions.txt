@@ -1,1 +1,2 @@
 This is reminder you have to develop powerup management system.
+Develop it as soon as possible otherwise you may loose interest in this project.
